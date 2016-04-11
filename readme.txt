@@ -9,3 +9,4 @@ Test the no-FF merge.
 	The 2nd line to test no-FF merge.
 Test the push function.
 	The 2nd line to test push function.
+	The 3rd line to test push function.
