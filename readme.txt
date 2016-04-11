@@ -7,3 +7,4 @@ Test the Fast-forward merge.
 	The second line to test merge.
 Test the no-FF merge.
 	The 2nd line to teset no-FF merge.
+Test the push function.
